@@ -1,4 +1,4 @@
-# Hack the North 2021 - IntAI
+# Hack the North 2021 - InterviewAI
 
 AI generated interview feedback to help you land your next job
 
@@ -34,7 +34,7 @@ The Frontend was made using React, while the backend is made using Flask. We use
 - Using React
 - How to use cockroachDB as a database
 
-## What's next for IntAI
+## What's next for InterviewAI
 We hope to implement additional features such as real-time tips based on the current video feed. Such as suggestions to smile, make eye contact with the camera when the program notices that the user has not done so in a while. We also hope that our natural language processing can be extended further to highlight key points and phrases in sentences
 
 We also hope to deploy it to our registered domain: prepforthatinterview.online
